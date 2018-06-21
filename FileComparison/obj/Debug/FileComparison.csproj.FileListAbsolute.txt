@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Desktop\Week 9 Assignments\FileComparison\FileComparison\bin\Debug\FileComparison.exe.config
+C:\Users\chris\OneDrive\Desktop\Week 9 Assignments\FileComparison\FileComparison\bin\Debug\FileComparison.exe
+C:\Users\chris\OneDrive\Desktop\Week 9 Assignments\FileComparison\FileComparison\bin\Debug\FileComparison.pdb
+C:\Users\chris\OneDrive\Desktop\Week 9 Assignments\FileComparison\FileComparison\obj\Debug\FileComparison.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Week 9 Assignments\FileComparison\FileComparison\obj\Debug\FileComparison.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Week 9 Assignments\FileComparison\FileComparison\obj\Debug\FileComparison.exe
+C:\Users\chris\OneDrive\Desktop\Week 9 Assignments\FileComparison\FileComparison\obj\Debug\FileComparison.pdb
